@@ -1,2 +1,3 @@
 # python_debut
-Python Scripts
+
+Practice scripts which I've written in Python
